@@ -1,0 +1,51 @@
+html,body{
+    margin:0;
+    padding:0;
+   background-color: cornsilk;
+}
+
+
+.container{
+    width: 800px;
+   margin:0 auto;
+   background-color: orangered;
+   padding-left: 16px;
+  padding-right: 16px;
+
+
+}
+
+.back {
+    display: inline-block;
+    background-color: #008FF0;
+    color: #FFF;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 6px;
+  }
+
+  .photos_conatainer{
+      display:block;
+    }
+
+    .photos__item {
+        display: inline-block;
+        vertical-align: middle;
+        width: 200px;
+        margin-left: 12px;
+        margin-right: 12px;
+        margin-bottom: 24px;
+      }
+
+.photos__item_image{
+    display:block;
+   background-color: orange;
+   min-height: 120px;
+
+}
+
+
+.photos__item_text{
+    display:block;
+   
+}

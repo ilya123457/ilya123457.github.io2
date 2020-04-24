@@ -1,0 +1,21 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+
+.conteiner{
+    width:800px;
+    margin:0;
+    background-color: cornsilk;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.read-blog {
+    display: inline-block;
+    background-color: #008FF0;
+    color: #FFF;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 6px;
+  }
